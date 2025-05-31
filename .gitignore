@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.log
+generated_clips/
+stable-audio-open-1.0
