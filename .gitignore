@@ -3,3 +3,4 @@ __pycache__/
 *.log
 generated_clips/
 stable-audio-open-1.0
+.venv
